@@ -4,24 +4,19 @@ Welcome to my Data Science and Machine Learning Portfolio, where I share project
 
 ## Featured Projects
 
-### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA) and Machine Learning Models
 
-- **Titanic Dataset Analysis**: Un análisis detallado del famoso dataset del Titanic. Exploro la supervivencia de los pasajeros y extraigo insights interesantes sobre los factores que podrían haber influido en la supervivencia.
-  - Herramientas utilizadas: Pandas, Matplotlib, Seaborn
-  - [Ver Proyecto](/Titanic-Dataset-Analysis)
-
-### Machine Learning Models
-
-- **Predicción de Precios de Viviendas**: Un modelo de regresión para predecir precios de casas basado en el dataset de Boston Housing.
-  - Herramientas utilizadas: scikit-learn, Statsmodels
-  - [Ver Proyecto](/Boston-Housing-Price-Prediction)
+- **Ecommerce Customers**: A New York-based fashion company, dedicated to selling clothing online and in physical stores, wants to know if it should focus its resources on optimizing the user experience on its mobile app or website to boost its earnings. Join me in exploring and investigating whether there were other influential factors in this decision-making process.
+  - Libraries Used: Pandas, Matplotlib, Seaborn, Numpy, Scikit-learn
+  - [Ver Proyecto](/Regression-Models/Ecommerce_service.ipynb)
+  - [Ver Data_set](/Regression-Models/Ecommerce%20Customers.csv)
 
 
 ## Technical Skills
 
-- Lenguajes de Programación: Python
-- Bibliotecas y Frameworks: Pandas, NumPy, scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn, Statsmodels
-- Herramientas de Desarrollo: Jupyter Notebooks, Git, GitHub, VS Code
+- Programming Languages: Python
+- Libraries & Frameworks: Pandas, NumPy, scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn, Statsmodels
+- Development Tools: Jupyter Notebooks, Git, GitHub, VS Code
 
 ## Connect with Me
 

@@ -23,7 +23,7 @@ Welcome!!! to my Data Science and Machine Learning Portfolio, where I share proj
 For inquiries or to discuss these projects further, please reach out through the following channels:
 
 - Email: [javieralfonsoseijas@gmail.com](mailto:javieralfonsoseijas@gmail.com)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/javier-a-643651182/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/javieralfonsoseijas)
 
 ---
 

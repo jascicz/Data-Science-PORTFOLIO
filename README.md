@@ -1,8 +1,8 @@
 # Data Science Portfolio.
 
-Welcome!!! to my Data Science and Machine Learning Portfolio, where I share projects and analysis that I have done using Python and a variety of libraries in this area. Below you'll find a list of projects, along with brief descriptions and links to each.
+Welcome!!! to my Data Science and Machine Learning Portfolio, where I share projects and analysis that I have done using Python and a variety of libraries in this area. Below you'll find a list of projects using Exploratory Data Analysis and Machine Learning Models, along with brief descriptions and links to each.
 
-## Featured Projects. **Exploratory Data Analysis and Machine Learning Models:**
+## Featured Projects.
 
 **LINEAR REGRESSION MODELS**
 

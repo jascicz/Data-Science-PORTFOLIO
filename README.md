@@ -13,6 +13,12 @@ Welcome!!! to my Data Science and Machine Learning Portfolio, where I share proj
   
 **LOGISTIC REGRESSION MODELS**
 
+- **Advertisement**: In this project we will be working with a fake advertising data set, indicating whether or not a particular internet user clicked on an Advertisement. We will try to create a model that will predict whether or not they will click on an ad based off the features of that user.
+  
+  - Libraries Used: Pandas, Matplotlib, Seaborn, Numpy, Scikit-learn
+  - [Ver Proyecto](/Logistic-Regression-Models/Advertisement%20LRP.ipynb)
+  - [Ver Data_set](/Logistic-Regression-Models/advertising.csv)
+
 - **Titanic Survivors**: Predicting survival on the Titanic is an excellent introductory problem in machine learning and data science. In this case, an analysis is performed to identify missing values, and categorical variables are created. Then, the dataset is divided, the model is trained, survival predictions are obtained, and evaluated using the confusion matrix.
   
   - Libraries Used: Pandas, Matplotlib, Seaborn, Numpy, Scikit-learn

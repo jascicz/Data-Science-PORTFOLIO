@@ -4,9 +4,9 @@ Welcome!!! to my Data Science and Machine Learning Portfolio, where I share proj
 
 ## Featured Projects
 
-### * Exploratory Data Analysis (EDA) and Machine Learning Models:
+### Exploratory Data Analysis (EDA) and Machine Learning Models:
 
-**Linear Regression Models**
+**LINEAR REGRESSION MODELS**
 
 - **Ecommerce Customers**: A New York-based fashion company, dedicated to selling clothing online and in physical stores, wants to know if it should focus its resources on optimizing the user experience on its mobile app or website to boost its earnings. Join me in exploring and investigating whether there were other influential factors in this decision-making process.
   - Libraries Used: Pandas, Matplotlib, Seaborn, Numpy, Scikit-learn
@@ -15,10 +15,13 @@ Welcome!!! to my Data Science and Machine Learning Portfolio, where I share proj
   
 **LOGISTIC REGRESSION MODELS**
 
-- **Ecommerce Customers**: A New York-based fashion company, dedicated to selling clothing online and in physical stores, wants to know if it should focus its resources on optimizing the user experience on its mobile app or website to boost its earnings. Join me in exploring and investigating whether there were other influential factors in this decision-making process.
+- **Titanic Survivors**: Predicting survival on the Titanic is an excellent introductory problem in machine learning and data science. In this case, an analysis is performed to identify missing values, and categorical variables are created. Then, the dataset is divided, the model is trained, survival predictions are obtained, and evaluated using the confusion matrix.
+  
   - Libraries Used: Pandas, Matplotlib, Seaborn, Numpy, Scikit-learn
-  - [Ver Proyecto](/Linear-Regression-Models/Ecommerce_service.ipynb)
-  - [Ver Data_set](/Linear-Regression-Models/Ecommerce%20Customers.csv)
+  - [Ver Proyecto](/Logistic-Regression-Models/Titanic_survivors.ipynb)
+  - [Ver Train_Data_set](/Logistic-Regression-Models/titanic_train.csv)
+  - [Ver Test_Data_set](/Logistic-Regression-Models/titanic_test.csv)
+  - [Titanic Data Set from Kaggle](https://www.kaggle.com/c/titanic)
 
 
 ## Technical Skills

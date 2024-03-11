@@ -4,12 +4,21 @@ Welcome!!! to my Data Science and Machine Learning Portfolio, where I share proj
 
 ## Featured Projects
 
-### * Exploratory Data Analysis (EDA) and Machine Learning Models
+### * Exploratory Data Analysis (EDA) and Machine Learning Models:
+
+**Linear Regression Models**
 
 - **Ecommerce Customers**: A New York-based fashion company, dedicated to selling clothing online and in physical stores, wants to know if it should focus its resources on optimizing the user experience on its mobile app or website to boost its earnings. Join me in exploring and investigating whether there were other influential factors in this decision-making process.
   - Libraries Used: Pandas, Matplotlib, Seaborn, Numpy, Scikit-learn
-  - [Ver Proyecto](/Regression-Models/Ecommerce_service.ipynb)
-  - [Ver Data_set](/Regression-Models/Ecommerce%20Customers.csv)
+  - [Ver Proyecto](/Linear-Regression-Models/Ecommerce_service.ipynb)
+  - [Ver Data_set](/Linear-Regression-Models/Ecommerce%20Customers.csv)
+  
+**LOGISTIC REGRESSION MODELS**
+
+- **Ecommerce Customers**: A New York-based fashion company, dedicated to selling clothing online and in physical stores, wants to know if it should focus its resources on optimizing the user experience on its mobile app or website to boost its earnings. Join me in exploring and investigating whether there were other influential factors in this decision-making process.
+  - Libraries Used: Pandas, Matplotlib, Seaborn, Numpy, Scikit-learn
+  - [Ver Proyecto](/Linear-Regression-Models/Ecommerce_service.ipynb)
+  - [Ver Data_set](/Linear-Regression-Models/Ecommerce%20Customers.csv)
 
 
 ## Technical Skills
@@ -24,6 +33,7 @@ For inquiries or to discuss these projects further, please reach out through the
 
 - Email: [javieralfonsoseijas@gmail.com](mailto:javieralfonsoseijas@gmail.com)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/javieralfonsoseijas)
+- Kaggle: [Kaggle](https://www.kaggle.com/javieralfonsoseijas)
 
 ---
 

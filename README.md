@@ -2,9 +2,7 @@
 
 Welcome!!! to my Data Science and Machine Learning Portfolio, where I share projects and analysis that I have done using Python and a variety of libraries in this area. Below you'll find a list of projects, along with brief descriptions and links to each.
 
-## Featured Projects
-
-### Exploratory Data Analysis (EDA) and Machine Learning Models:
+## Featured Projects. Exploratory Data Analysis (EDA) and Machine Learning Models:
 
 **LINEAR REGRESSION MODELS**
 
